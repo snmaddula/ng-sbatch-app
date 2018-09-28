@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=org.springframework.batch -DartifactId=spring-batch-excel -Dversion=0.5.0 -Dpackaging=jar -Dfile=spring-batch-excel-0.5.0.jar
